@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tarea 2.4 FirmaDigital</string>
+
+    <string name="hint_nota">Descripcion</string>
+    <string name="hint_foto">Foto</string>
+    <string name="btn_lista_contactos">Lista Registros</string>
+
+    <string name="btn_guarda">Guardar Firma</string>
+    <string name="btn_editar">Actualizar Firma</string>
+    <string name="menu_nuevo">Nueva Firma</string>
+
+    <string name="msg_about_version">Version</string>
+    <string name="dialog_option_ok">Aceptar</string>
+    <string name="app_copyright">Copyright © 2024 \nProg. Movil 1 - Tarea 4 Parcial 2. \nAll right reserved</string>
+    <string name="app_integrantes">Juan Angel Trejo</string>
+
+    <string name="share_content">Me gustaría compartir el siguiente contacto contigo.</string>
+    <string name="img_content_description">Foto</string>
+
+</resources>
